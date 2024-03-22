@@ -1,0 +1,15 @@
+table {
+    width: 100%;
+}
+table td,
+table th {
+    text-align: right;
+}
+
+table td:first-child,
+table th:first-child {
+    text-align: left;
+}
+hr {
+ max-width: 50%;
+}
